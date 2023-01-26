@@ -20,4 +20,3 @@ My name is Shubham Vankalas and I am a full stack web developer.<br>I specialize
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
