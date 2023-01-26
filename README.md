@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 ## 💫 About Me:
 <br>
 My name is Shubham Vankalas and I am a full stack web developer.<br>I specialize in the MERN stack (MongoDB, Express.js, React.js, and Node.js) <br>and have experience working with other technologies such as HTML, CSS, and JavaScript.<br>I am skilled in both front-end and back-end development.<br>I am passionate about using technology to solve problems and create innovative solutions,<br>and I am always seeking to expand my knowledge and skills in this field.<br>I am also a quick learner and a team player, who is able to work well under pressure.<br>I am also dedicated to staying up to date with the latest industry trends and technologies.
